@@ -1,2 +1,8 @@
 # Notes_Application
-A webapp project in which you can save notes for your reference
+A software application to take notes and save it for future reference
+
+## Technologies Used
+- Language - Python, HTML, CSS, JavaScript
+- Library - React JS
+- Framework - Django
+- Database - SQLite
